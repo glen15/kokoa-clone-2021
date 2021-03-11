@@ -4,8 +4,8 @@
 
 .user-component,
 .user-component__column:first-child {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .user-component__avtar {
